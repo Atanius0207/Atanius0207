@@ -68,7 +68,7 @@ interests: [Backend Development, Database Design, QR Systems]
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🧾 CRUD Data Siswa</h3>
+      <h3 align="center">🧾 Sistem Akademik</h3>
       <div align="center">
         <a href="https://github.com/Atanius0207" target="_blank">
           <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -80,10 +80,11 @@ interests: [Backend Development, Database Design, QR Systems]
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🧠 Mini Project Sekolah</h3>
+      <h3 align="center">🧠 CRUD Inventaris Barang</h3>
       <div align="center">
         <a href="https://github.com/Atanius0207" target="_blank">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+          <img src="https://img.shields.io/badge/PHP-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="PHP"/>
+          <img src="https://img.shields.io/badge/MySQL-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="MySQL"/>
         </a>
         <p><strong>School Projects</strong> - Collection of school assignments and mini projects</p>
       </div>
