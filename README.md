@@ -36,7 +36,7 @@ interests: [Backend Development, Database Design, QR Systems]
 <img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap,nodejs,react" alt="Frameworks" />
 
 ### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,postman" alt="Tools" />
 
 </div>
 
